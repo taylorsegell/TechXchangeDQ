@@ -1,0 +1,389 @@
+﻿Name,Artifact Type,Category,Description,Tags,Classifications,Stewards,Related Terms,Part Of Terms,Data Classes
+Account Balance,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The total amount that is outstanding on the account, debit or credit.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Account Closed Date,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The date when the account was closed.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,Date
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Account Currency,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Identifies the currency of the account.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,Currency
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Account Name,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,A free-form text name of the account.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Account Number,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,A unique business identifier for the account.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,Account Number
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Account Opened Date,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The date when the account was opened.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,Date
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Account Status,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The status of the account, for example: active, pending active, pending transfer, final, written off.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Account Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The categorization of the account into distinct types.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Address Line 1 Description,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"First line of the address, which includes street and building number.",,,,,Customer Vocabulary >> Customer 360 >> Postal Address,Address Line 1
+Adult Household Members,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The number of household members that are aged 18 years or older.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Age Group,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The length of time that a person/individual has lived.,,,,,,
+Anti-money Laundering Monitoring Indicator,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Indicator if the customer account is monitored for transactions being suspicious of criminal activities involving the movement of money through accounts, banks and countries carried out using the financial institution.",,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Arrears Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The total amount of money which is owed to an organization on payments due on the account, but not received as of the payment due date.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,
+,,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Credit Card Account,
+Authorization Date,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Identifies a date upon which an action has been authorized. For example, the date upon which a code is issued by a bank to authorize a Credit Card Payment.",,,,,Customer Vocabulary >> Customer 360 >> Transaction,Date
+Communication,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The receiving or sending of an information between two parties. A communication may be in any medium such as a telephone call, a letter, an email, a meeting, and so on. ",,,,,,
+Communication End,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The date and time when the communication was ended.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Communication,Date
+Communication Start,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The date and time when the communication was initiated.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Communication,Date
+Communication Status,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The communication status distinguishes between communications according to their current state, for example: awaiting further information, closed, open.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Communication,
+Communication Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Indicates the type of communication that has occurred or is planned to occur, for example: campaign mailing, complaint, quotation request.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Communication,
+Credit Card Account,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The credit card account includes information from the customer credit card agreements.,,,,Customer Vocabulary >> Customer 360 >> Customer,,Japan Credit Bureau (JCB)
+,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,,Master Card
+Customer Account Address,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The postal address associated with the customer account.,,Personally Identifiable Information,,Customer Vocabulary >> Customer 360 >> Postal Address,Customer Vocabulary >> Customer 360 >> Customer Account,Address  Line 3
+,,,,,,,,,Address Line 2
+,,,,,,,,,Address Line 1
+Customer Account Investment Objective,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Primary goal that the product linked with this account is intended to satisfy. It can change over time, for example, funds for retirement may at first have a goal of capital appreciation, but as retirement approaches it may change to safety or liquidity.",,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Customer Account Life Cycle Status,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Additional classification of customer account status that determines the status of the account based on its life cycle.,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Customer Account Product Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Classification of product or service that this account represents or is associated with this account.,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Customer Account Risk Tolerance,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Classifies the customer's tolerance to market risk in context of customer account. It determines the type of trading and investment. When trading or investing in financial markets, high risk strategies can provide the greatest return.",,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Customer Acquisition Cost,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The primary costs of establishing the customer. The money spent on convincing the customer to purchase the products or services of the organization.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Active Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Identifies the number of active customer accounts.,,,,,,
+Customer Agreement,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,An agreement between the customer and the organization to pay for goods or services. The agreement records billing information about the type of service and product that is provided.,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Loan Account,,
+,,,,,,,Customer Vocabulary >> Customer 360 >> Customer,,
+,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,,
+Customer Agreement Number,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The unique alphanumeric value that is assigned in the business process and identifies the customer agreement.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,
+Customer Agreement Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,An organization specific classification of the customer agreement.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,
+Customer Agreement Validity End,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The date and time when the validity of the customer agreement ceased.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,Date
+Customer Agreement Validity Start,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The date and time when the validity of the customer agreement commenced.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,Date
+Customer All Accounts Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts of all fees on customer accounts in assessed period.,,,,,,
+Customer Behavior,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The manner in which a customer prefers to purchase products; buyer behavior or past history.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Buy Trades,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of buy trade transactions carried out by customers in assessed period.,,,,,,
+Customer Buy Trades Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts of all buy trades executed by customers in assessed period.,,,,,,
+Customer Call Duration,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The net duration of the customer call measured from the time when the call is answered to the time the call ended usually expressed as number of minutes.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Phone Call,
+Customer Calls,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Number of all phone calls with customers, both customer and organization initiated, in the assessed period.",,,,,,
+Customer Commision Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of commission amounts from all trades executed by customers in assessed period.,,,,,,
+Customer Communication,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The communication between the customer and the organization typically handled by a contact center.,,,,Customer Vocabulary >> Customer 360 >> Customer,,
+,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Communication,,
+Customer Complaints,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of all customer complaints recorded in assessed period.,,,,,,
+Customer Credit Authority Level,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Scale of authority for credit of the customer on the market, for example: high, medium, low.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Credit Score,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,A score that evaluates the ability of a customer to pay their debts. Rating scores are viewed in terms of the specific type of assessment or set of values used to evaluate a particular aspect of a financial services marketplace.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Deposits,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of all deposit transactions executed by customers in assessed period.,,,,,,
+Customer Deposits Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts from all deposit transactions on the customer accounts in assessed period.,,,,,,
+Customer Emails,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of all customer emails received in assessed period.,,,,,,
+Customer Fees,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of fee transactions appearing on customer accounts in assessed period.,,,,,,
+Customer Financial Assets,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Total value of all financial assets in possession of the customer.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Financial Assets Under Management,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Total value of assets held by the financial institution on behalf of a customer.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Identifier,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,A unique number that identifies the customer.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,DUNS Number
+,,,,,,,,,Customer Number
+,,,,,,,,,Identifier
+Customer Importance,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The level of importance that the customer has to the organization, for example: low, normal, high, VIP.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Influencer Score,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,A score that expresses the influence that the customer has on others. The score suggests how strongly the communication and behavior of the customer influences the behavior of other people.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Interest Earned Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The amount of all interests earned on customer accounts in assessed period.,,,,,,
+Customer Interest Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts of interest related fees on customer accounts in assessed period.,,,,,,
+Customer Language,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Identifies the natural language associated with customer for use in communications.,,,,,Customer Vocabulary >> Customer 360 >> Customer,Language Code or Name
+Customer Liabilities,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The amount of all customer's debts.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Management Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts of management related fees on customer accounts in assessed period.,,,,,,
+Customer Market Change Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts from all transactions related to market change on the customer accounts in assessed period.,,,,,,
+Customer Net Present Value,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The present value of the customer's net expected future cash flows minus the cost of investment (or cost of acquisition).,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Non-Financial Assets,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Total value of all non-financial assets in possession of the customer.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Phone Call,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,A call between a customer and a contact center agent. This includes both contact center inbound and outbound phone calls.,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Communication,,
+Customer Products,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of products the customer owns or has a subscription for.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Response to Latest Offer,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Identifies whether there was a response from the customer towards the latest offer made.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Satisfaction,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The overall satisfaction of the customer with the goods or services that are provided by the organization.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Sell Trades,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of sell trade transactions carried out by customers in assessed period.,,,,,,
+Customer Sell Trades Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts of all sell trades executed by customers in assessed period.,,,,,,
+Customer Sentiment,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The overall attitude of the customer to the goods or services provided by the organization.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Social Media Posts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of all customer posts in social media addressed to the organization in the assessed period.,,,,,,
+Customer Status,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The status of the customer based on whether there is an active agreement in place between the customer and the organization, for example: active, dormant, former, prospect.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Transaction Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts of transaction related fees on customer accounts in assessed period.,,,,,,
+Customer Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The type of the customer based on the classification of the organization that is in a contractual or other relationship with the customer, for example: residential, industrial, commercial, government.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Units Bought,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of all units bought in trade transactions executed by customers in assessed period.,,,,,,
+Customer Units Sold,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of all units sold in trade transactions executed by customers in assessed period.,,,,,,
+Customer Waived Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts of waived fees on customer accounts in assessed period.,,,,,,
+Customer Willingness To Recommend,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The customer's satisfaction with a product that quantifies the probability that the customer would recommend this product.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Withdrawals,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of all withdrawal transactions executed by customers in assessed period.,,,,,,
+Customer Withdrawals Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The sum of amounts from all withdrawal transactions on the customer accounts in assessed period.,,,,,,
+Growth As Investment Objective Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of customer accounts that have 'growth' set as their investment objective.,,,,,,
+High Risk Tolerance Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of customer accounts with high tolerance to market risk.,,,,,,
+Inbound Calls,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The number of calls to contact center initiated by the customer during the analyzed period. This includes both answered and abandoned calls.,,,,,,
+Inbound Communications,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The number of contacts with the organization that were initiated by the customers during the analyzed period. This includes phone calls, emails, text messages or communications using social media.",,,,,,
+Income As Investment Objective Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of customer accounts that have 'income' set as their investment objective.,,,,,,
+Last Customer Response Time,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Amount of time taken since the most recent customer response.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Last Product Offer Date,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Date of the latest product offer made to a customer.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Loan Account,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Identifies a finance service agreement in which the financial institution puts its assets at risk for the benefit of customers.,,,,,,
+Low Risk Tolerance Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of customer accounts with low tolerance to market risk.,,,,,,
+Moderate Risk Tolerance Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of customer accounts with moderate tolerance to market risk.,,,,,,
+New Customer Agreements,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The number of new customer agreements that were created in a given period of time.,,,,,,
+Number of Customer Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The number of customer accounts in assessed period.,,,,,,
+Number of Customer Communications,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The number of all communications with customers, both customer and organization initiated, in the assessed period. This includes phone calls, letters, emails, texts, social media interactions, web and mobile chats.",,,,,,
+Outbound Calls,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The number of contact center calls to customer during the analyzed period. This includes both calls answered by customer and calls ended by agent due to customer not answering.,,,,,,
+Outbound Communications,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"The number of customer contacts with the organization that were initiated by the contact center during the analyzed period. This includes phone calls, email, text messages or communications using social media.",,,,,,
+Planning As Investment Objective Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Number of customer accounts that have 'planning' set as their investment objective.,,,,,,
+Product,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,"Product identifies goods and services that can be offered, sold, or purchased by the customers.",,,,,,
+Product Description,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Provides a textual explanation or free form comments about the product.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Product,
+Product Identifier,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,A unique number that identifies a product.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Product,Universal Product Code (UPC)
+,,,,,,,,,Identifier
+Product Name,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,The primary name assigned to the product that is used in reports and documents referring to the product.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Product,
+Product Offer,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Details of the offer of the product to a particular customer based on the industry. ,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Communication,,
+Product Owned Indicator,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity,Indicator of whether a particular product that was offered to a customer is now owned by the customer or not.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Communication,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Product Offer,
+Authorization Code,glossary_term,Customer Vocabulary >> Customer 360,"Identifies a code which has been received to authorize a requested action. For example, a code issued by a bank to authorize a Credit Card Payment.",,,,,,
+Card At Transaction Status,glossary_term,Customer Vocabulary >> Customer 360,Indicates whether the credit card was physically present at the time of the transaction.,,,,,,
+Children Household Members,glossary_term,Customer Vocabulary >> Customer 360,The number of household members who are under the age of 18 years.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+City,glossary_term,Customer Vocabulary >> Customer 360,A geographic area that defines the boundaries of a community where people live. It is generally an incorporated or chartered area of a state or province.,,,,,,City
+City Name,glossary_term,Customer Vocabulary >> Customer 360,"Identifies the label assigned to or by which a city may be identified, for example: Chicago, Dublin, Sydney.",,,,,Customer Vocabulary >> Customer 360 >> City,City
+Communication Content,glossary_term,Customer Vocabulary >> Customer 360,"The text holding the content of the written communication (letter, web chat, email, text) or transcription of a phone call.",,,,,,
+Communication Delivery Format,glossary_term,Customer Vocabulary >> Customer 360,"The format that is used for the delivery of a communication, for example: face-to-face, phone, social media, online chat.",,,,,,
+Communication Direction,glossary_term,Customer Vocabulary >> Customer 360,Indicates whether the organization is receiving the communication (inbound) or sending the communication (outbound).,,,,,,
+Communication On Hold Time,glossary_term,Customer Vocabulary >> Customer 360,The amount of time spent in a suspended or on-hold mode during a communication.,,,,,,
+Communication Processing Time,glossary_term,Customer Vocabulary >> Customer 360,The amount of time spent in processing the communication.,,,,,,
+Communication Resolution Type,glossary_term,Customer Vocabulary >> Customer 360,"The overarching method by which a communication is resolved or ended, for example: completed by agent, completed by self-service, disconnect, abandon.",,,,,,
+Communication Subject,glossary_term,Customer Vocabulary >> Customer 360,A text reference that aids the identification and understanding of this communication content.,,,,,,
+Country,glossary_term,Customer Vocabulary >> Customer 360,A geographic area that defines the boundaries of a nation.,,,,Customer Vocabulary >> Customer 360 >> Postal Address,,Country Name
+Country Code,glossary_term,Customer Vocabulary >> Customer 360,"A code which identifies a country, for example: the country code for Ireland is 'IE'.",,,,,Customer Vocabulary >> Customer 360 >> Country,Country Code
+Country Name,glossary_term,Customer Vocabulary >> Customer 360,"Identifies the label assigned to or by which a country may be identified, for example: Ireland, India.",,,,,Customer Vocabulary >> Customer 360 >> Country,Country Name
+Customer,glossary_term,Customer Vocabulary >> Customer 360,A person or organization buying goods or services from the organization.,,Personally Identifiable Information,,,,
+Customer Account,glossary_term,Customer Vocabulary >> Customer 360,Customer account includes information from the customer agreements to create billings or invoices for a customer and receive payment.,,,,Customer Vocabulary >> Customer 360 >> Customer,,
+Customer Account Collection Status,glossary_term,Customer Vocabulary >> Customer 360,"A high-level status that describes where a customer is in the collections business cycle, for example: active, inactive.",,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Customer Account Overdue Balance,glossary_term,Customer Vocabulary >> Customer 360,The total unpaid billed amount on the customer account that is older than predefined period.,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Customer Account Revenue Class,glossary_term,Customer Vocabulary >> Customer 360,"The classification of the customers revenue for accounting, for example: residential, commercial, industrial.",,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Customer Active Tenure,glossary_term,Customer Vocabulary >> Customer 360,The period of time during which the customer has an active agreement with the organization.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Advisor,glossary_term,Customer Vocabulary >> Customer 360,The person that provides financial advisory services to the customer.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Advisor Organization,glossary_term,Customer Vocabulary >> Customer 360,The organization that provides financial advisory services to the customer.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Agreement Channel,glossary_term,Customer Vocabulary >> Customer 360,"The channel through which the agreement has been made, for example: phone, web, email, letter.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,
+Customer Agreement Payment Cycle,glossary_term,Customer Vocabulary >> Customer 360,"The payment frequency that the customer is contractually expected to observe, for example: ad-hoc, on specified date, weekly, monthly.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,
+Customer Agreement Payment Method,glossary_term,Customer Vocabulary >> Customer 360,"The type of payment that is received from the customer, for example: check, card, cash, electronic funds transfer, direct debit.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,
+Customer Agreement Sign Date,glossary_term,Customer Vocabulary >> Customer 360,"The date when the customer agreement was consummated among associated persons, organizations or both.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,
+Customer Agreement Status,glossary_term,Customer Vocabulary >> Customer 360,"The status of the agreement, for example: not eligible, pending, approved.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Agreement,
+Customer Annual Income,glossary_term,Customer Vocabulary >> Customer 360,"The amount of money an individual earns in a single year. Usually includes person's salary and bonuses as well as any other non-employment related income such as dividends from holdings in stocks and shares, trusts.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Household,glossary_term,Customer Vocabulary >> Customer 360,The household of the customer if the customer is a person.,,,,Customer Vocabulary >> Customer 360 >> Household,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Influenced Probability,glossary_term,Customer Vocabulary >> Customer 360,The probability that the customer can be influenced by the opinions of others.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Level Of Authority,glossary_term,Customer Vocabulary >> Customer 360,"An indicator of the customer's level of authority in their peer group, which provides insight into the impacts of the customer's behavior on the behavior of other people.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Lifetime Value,glossary_term,Customer Vocabulary >> Customer 360,The total projected earnings of a customer to the organization over its probable lifetime.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Loyalty Score,glossary_term,Customer Vocabulary >> Customer 360,"Identifies rating of the tendency of the customer to remain loyal to a company, indicating the likelihood that the customer may purchase from another company.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Market Segment,glossary_term,Customer Vocabulary >> Customer 360,The customer classification that is used to segment customers to produce and track the sales forecast.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Name,glossary_term,Customer Vocabulary >> Customer 360,"The name by which a customer is known and which is usually used to identify that customer. For example: International Business Machines Corporation (IBM), Joe Bloggs.",,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,Organization Name
+,,,,,,,,,Person Name
+Customer Net Gain,glossary_term,Customer Vocabulary >> Customer 360,"The net gain in customers of the organization expressed as: the number of customers gained minus the number of customers lost, in a given period.",,,,,,
+Customer Pursuit,glossary_term,Customer Vocabulary >> Customer 360,Classification of customer based on primary living habits and interests of the person.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Retirement Age,glossary_term,Customer Vocabulary >> Customer 360,The age at which the person is retiring and ceases to work in permanent employment.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Risk Category,glossary_term,Customer Vocabulary >> Customer 360,"The classification of the risk that a customer will stop paying for goods or services, for example: critical, high, medium, low. As a result, if the customer debts are uncollectible, the organization might need to write off the customer account balance.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Customer Social Network Influence Score,glossary_term,Customer Vocabulary >> Customer 360,The score that expresses the influence that the customer has on others. The score suggests how strong the communication and behavior of the customer influences the behavior of other people.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Date Of Birth,glossary_term,Customer Vocabulary >> Customer 360,The date when an individual was born.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,Date of Birth
+Death Date,glossary_term,Customer Vocabulary >> Customer 360,The date when an individual died.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+Debt Service Coverage Ratio,glossary_term,Customer Vocabulary >> Customer 360,"The debt service coverage ratio (DSCR), is the ratio of cash available for debt servicing to interest, principal and lease payments.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Dormant Customer Rate,glossary_term,Customer Vocabulary >> Customer 360,The dormant customers expressed as a percentage of the active customers at the end of the analyzed period.,,,,,,
+Dormant Customers,glossary_term,Customer Vocabulary >> Customer 360,The number of customers without account transaction and communication during a given period of time. The dormant customers are the customers without any active contracts.,,,,,,
+Education Level,glossary_term,Customer Vocabulary >> Customer 360,The highest level of education of the person.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Email Address,glossary_term,Customer Vocabulary >> Customer 360,"An electronic address that can be used to send and receive correspondence over a computer network, for example: jsmith@jonesinc.com.",,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,Email Address
+Employment Status,glossary_term,Customer Vocabulary >> Customer 360,"The employment status of an individual, for example: full-time, part-time, unemployed, retired.",,,,,Customer Vocabulary >> Customer 360 >> Customer,Employment Status
+Ethnicity,glossary_term,Customer Vocabulary >> Customer 360,"A classification of an individual based on their membership in a group that is united and defined to a greater or lesser degree by common history, beliefs, culture, nationality, etc.",,Sensitive Personal Information,,,Customer Vocabulary >> Customer 360 >> Customer,Ethnicity
+Event Customer,glossary_term,Customer Vocabulary >> Customer 360,The customer to which the event is related to.,,,,Customer Vocabulary >> Customer 360 >> Customer,,
+Family Household Indicator,glossary_term,Customer Vocabulary >> Customer 360,"Indicates whether the household includes a couple, as well as at least one child of the couple.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+First Name,glossary_term,Customer Vocabulary >> Customer 360,"A personal name typically used to refer to an individual in informal circumstances, for example: John, Mary.",,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,First Name
+Fraud Reporting Source,glossary_term,Customer Vocabulary >> Customer 360,Identifies the party of the transaction that raised a suspicion of fraud.,,,,,,
+Gender,glossary_term,Customer Vocabulary >> Customer 360,"Indicates an individual's gender, for example: male, female.",,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,Gender
+Head Of Household Indicator,glossary_term,Customer Vocabulary >> Customer 360,Indicates whether the customer has certain legal and financial obligations to other members of the household.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+Home Address,glossary_term,Customer Vocabulary >> Customer 360,The address of a person's home.,,Personally Identifiable Information,,Customer Vocabulary >> Customer 360 >> Postal Address,Customer Vocabulary >> Customer 360 >> Customer,Address  Line 3
+,,,,,,,,,Address Line 2
+,,,,,,,,,Address Line 1
+Household,glossary_term,Customer Vocabulary >> Customer 360,"A group of individuals, who can be resident at the same address and members of the same family, that share a common economic interest and are treated as a unit for certain purposes.",,Personally Identifiable Information,,,,
+Household Disposable Income,glossary_term,Customer Vocabulary >> Customer 360,"The amount of money that a household can spend after having paid all fixed expenses such as rent, mortgage repayments and so on.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Gross Income,glossary_term,Customer Vocabulary >> Customer 360,"The annual total of all income sources for the household, derived from the gross income of the household members.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Home Ownership,glossary_term,Customer Vocabulary >> Customer 360,Indicates whether a member of the household is also the property owner.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Identifier,glossary_term,Customer Vocabulary >> Customer 360,A unique number that identifies the household.,,,,,Customer Vocabulary >> Customer 360 >> Household,Identifier
+Household Income Source,glossary_term,Customer Vocabulary >> Customer 360,"The source of income that contributes to most of the income for the household, which is relevant for accounts where ability-to-pay information was collected.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Internet Use,glossary_term,Customer Vocabulary >> Customer 360,Indicates whether the Internet is used in the household.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Members,glossary_term,Customer Vocabulary >> Customer 360,"The number of people, both adults and children, who are part of the household.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Number Of Cars,glossary_term,Customer Vocabulary >> Customer 360,The number of cars that are used by the household.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Poverty Level,glossary_term,Customer Vocabulary >> Customer 360,"The percentage of poverty that is based on the annual income and number of members of a household, which is calculated for accounts for which ability-to-pay information was collected.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Purchasing Power,glossary_term,Customer Vocabulary >> Customer 360,"A rating of the relative spending power of the household, for example: affluent, low income, upper middle income.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Size,glossary_term,Customer Vocabulary >> Customer 360,The number of people who are members of the household.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Household Tenancy Status,glossary_term,Customer Vocabulary >> Customer 360,"The tenancy status of the household main residence, for example: own, rent.",,,,,Customer Vocabulary >> Customer 360 >> Household,
+Internet Banking Use Indicator,glossary_term,Customer Vocabulary >> Customer 360,Indicate whether the customer is using the internet banking services provided by a financial institution.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Last Name,glossary_term,Customer Vocabulary >> Customer 360,"Identifies an individual's name which belongs to the family the individual is a part of, for example: Smith, Mueller.",,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,Last Name
+Mailing Address,glossary_term,Customer Vocabulary >> Customer 360,The postal address selected by customer for receiving of mail communication.,,Personally Identifiable Information,,Customer Vocabulary >> Customer 360 >> Postal Address,Customer Vocabulary >> Customer 360 >> Customer,
+Marital Status,glossary_term,Customer Vocabulary >> Customer 360,Current legal situation of the individual regarding marriage.,,,,,Customer Vocabulary >> Customer 360 >> Customer,Legal Marital/Civil Status.
+Monthly Housing Cost,glossary_term,Customer Vocabulary >> Customer 360,The cost of the residential accommodation that may be based on rental or mortgage payments.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Net Change In Customer Agreements,glossary_term,Customer Vocabulary >> Customer 360,The net number of agreements at the end of the given period of time expressed as: the number of agreements created minus the number of agreements closed during that period of time.,,,,,,
+Occupation,glossary_term,Customer Vocabulary >> Customer 360,"Name of the person's work or business engagement, for example: farmer, professional, tradesperson, author, business owner, consultant, doctor, economist, homemaker.",,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+Oldest Household Adult Birth Year,glossary_term,Customer Vocabulary >> Customer 360,The year on which the oldest adult member of household was born.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Oldest Household Child Birth Year,glossary_term,Customer Vocabulary >> Customer 360,The year on which the oldest child member of household was born.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Postal Address,glossary_term,Customer Vocabulary >> Customer 360,The address to which mail is delivered.,,,,,,Address  Line 3
+,,,,,,,,,Address Line 2
+,,,,,,,,,Address Line 1
+Postal Address Area Type,glossary_term,Customer Vocabulary >> Customer 360,"Classifies the area to which the postal address belongs according to the density, type and layout of buildings.",,,,,Customer Vocabulary >> Customer 360 >> Postal Address,
+Postal Address City,glossary_term,Customer Vocabulary >> Customer 360,Identifies the city component of postal address. ,,,,Customer Vocabulary >> Customer 360 >> City,Customer Vocabulary >> Customer 360 >> Postal Address,City
+Postal Address Country,glossary_term,Customer Vocabulary >> Customer 360,Identifies the country component of postal address.,,,,Customer Vocabulary >> Customer 360 >> Country,Customer Vocabulary >> Customer 360 >> Postal Address,Country Name
+Postal Address State,glossary_term,Customer Vocabulary >> Customer 360,Identifies the state component of postal address.,,,,Customer Vocabulary >> Customer 360 >> State,Customer Vocabulary >> Customer 360 >> Postal Address,UK Province Code
+,,,,,,,,,Canada Province Code
+,,,,,,,,,State/Province Name
+,,,,,,,,,ISO 3166-2 Code
+,,,,,,,,,US State Code
+Postal Code,glossary_term,Customer Vocabulary >> Customer 360,A code that is included in a postal address to assist the sorting of mail.,,,,,Customer Vocabulary >> Customer 360 >> Postal Address,Canada Post Code
+,,,,,,,,,US Zip Code
+,,,,,,,,,UK Post Code
+,,,,,,,,,Ireland Eircode
+Preferred Contact Method,glossary_term,Customer Vocabulary >> Customer 360,"Preferred contact method for communication, for example: mail, email, call, text.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Primary Account Holder,glossary_term,Customer Vocabulary >> Customer 360,The primary account holder associated with the customer account.,,,,Customer Vocabulary >> Customer 360 >> Customer,Customer Vocabulary >> Customer 360 >> Customer Account,
+Primary Branch Proximity,glossary_term,Customer Vocabulary >> Customer 360,The distance of the primary branch location from the customer home address.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Seniors Household Members,glossary_term,Customer Vocabulary >> Customer 360,The number of household members who are categorized as seniors.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Social Media Account,glossary_term,Customer Vocabulary >> Customer 360,A profile that pertains to the social media presence of a person or organization. A person or organization each can have more than one social media account.,,Sensitive Personal Information,,,,
+Social Media Account Platform,glossary_term,Customer Vocabulary >> Customer 360,The social network platform on which the account exists.,,,,,Customer Vocabulary >> Customer 360 >> Social Media Account,
+Social Security Number,glossary_term,Customer Vocabulary >> Customer 360,An identification number issued to citizens and permanent residents by a governmental agency for the purposes of qualifying for Social Security benefits.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,Canadian Social Insurance Number (SIN)
+,,,,,,,,,UK National Insurance Number
+,,,,,,,,,US Social Security Number
+,,,,,,,,,US Social Security Number Last 4
+State,glossary_term,Customer Vocabulary >> Customer 360,A geographic area that is a political subdivision of a country. This can be a state or Province.,,,,,,
+State Code,glossary_term,Customer Vocabulary >> Customer 360,"A code which identifies a state or province, for example: the state code for Florida is 'FL'.",,,,,Customer Vocabulary >> Customer 360 >> State,UK Province Code
+,,,,,,,,,Canada Province Code
+,,,,,,,,,ISO 3166-2 Code
+,,,,,,,,,US State Code
+State Name,glossary_term,Customer Vocabulary >> Customer 360,"Identifies the label assigned to or by which a state may be identified, for example: Florida, Texas, Kentucky.",,,,,Customer Vocabulary >> Customer 360 >> State,Canada Province Name
+,,,,,,,,,State/Province Name
+,,,,,,,,,US State Name
+Street,glossary_term,Customer Vocabulary >> Customer 360,The name of the street of the address.,,,,,Customer Vocabulary >> Customer 360 >> Postal Address,US Street Name
+Suspicious Activity Type,glossary_term,Customer Vocabulary >> Customer 360,Identifies an activity or series of activities which has alerted the organization to the possibility of an occurrence of illegal or suspicious activity.,,,,,,
+Telephone Number,glossary_term,Customer Vocabulary >> Customer 360,The general-purpose telephone information that is needed to contact a wired or wireless telephone device.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,US Phone Number
+Transaction Amount,glossary_term,Customer Vocabulary >> Customer 360,The total gross value of the transaction.,,,,,,
+Transaction Medium,glossary_term,Customer Vocabulary >> Customer 360,"Identifies the transactions according to conduit used, for example; face-to-face,email or online, phone.",,,,,,
+Transaction Reason Type,glossary_term,Customer Vocabulary >> Customer 360,"Identifies the reason for the transaction. For example, a bill payment, salary lodgment.",,,,,,
+Transaction Status,glossary_term,Customer Vocabulary >> Customer 360,"The current state of the transaction. For example, settled, pending, rejected, completed, canceled.",,,,,,
+Transaction,glossary_term,Customer Vocabulary >> Customer 360,"An exchange or transfer of funds, assets, or financial instruments between parties. Financial transactions occur in various settings, including personal finance, business finance, and investment activities. Here are some common types of financial transactions:",,,,,,
+Transaction Time,glossary_term,Customer Vocabulary >> Customer 360,The time on which the transaction actually occurred.,,,,,,
+Transaction Type,glossary_term,Customer Vocabulary >> Customer 360,"Indicates the type of transaction. For example, payment, charge off etc.",,,,,,
+Customer Account Buy Trades,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of buy trade transactions on the customer account in assessed period.,,,,,,
+Customer Account Buy Trades Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts of all buy trades on the customer account in assessed period.,,,,,,
+Customer Account Commision Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of commission amounts from all trades on the customer account in assessed period.,,,,,,
+Customer Account Deposits,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of all deposit transactions on the customer account in assessed period.,,,,,,
+Customer Account Deposits Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts from all deposit transactions on the customer account in assessed period.,,,,,,
+Customer Account Fees,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of fee transactions appearing on the customer account in assessed period.,,,,,,
+Customer Account Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts of all fees on the customer account in assessed period.,,,,,,
+Customer Account Fees In Arrears Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,"The sum of amount of all fees on the customer account which is owed to the financial institution on payments due on the account, but not received as of the payment due date.",,,,,,
+Customer Account Interest Earned Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The amount of all interests earned on the customer account in assessed period.,,,,,,
+Customer Account Interest Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts of interest related fees on the customer account in assessed period.,,,,,,
+Customer Account Market Change Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts from all transactions related to market change on the customer account in assessed period.,,,,,,
+Customer Account Sell Trades,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of sell trade transactions on the customer account in assessed period.,,,,,,
+Customer Account Sell Trades Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts of all sell trades on the customer account in assessed period.,,,,,,
+Customer Account Transaction Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts of transaction related fees on the customer account in assessed period.,,,,,,
+Customer Account Units Bought,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of all units bought in trade transactions on the customer account in assessed period.,,,,,,
+Customer Account Units Sold,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of all units sold in trade transactions on the customer account in assessed period.,,,,,,
+Customer Account Waived Fees Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts of waived fees on the customer account in assessed period.,,,,,,
+Customer Account Withdrawals,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of all withdrawal transactions on the customer account in assessed period.,,,,,,
+Customer Account Withdrawals Amount,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of amounts from all withdrawal transactions on the customer account in assessed period.,,,,,,
+Customer Attrition Rate,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The ratio of the customers lost in a given period to the number of customers that were active at the start of that period.,,,,,,
+Customer Tenure,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The duration in years or months since the start date of the first agreement the customer had with the organization.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Properties Owned,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The number of properties owned by the customer.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Returned Customers,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The number of ex-customers that became active again by signing a new customer agreement in a given period of time.,,,,,,
+Secure Growth As Investment Objective Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of customer accounts that have 'secure growth' set as their investment objective.,,,,,,
+Security As Investment Objective Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of customer accounts that have 'security' set as their investment objective.,,,,,,
+Tax Advantage Indicator,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,"Indicates whether the account provides a tax benefit to customer, or not. ",,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Top Spending Category,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,"The personal expenses category with highest customer spending, for example: food, health, housing, insurance, personal, recreation, savings, transportation, utilities.",,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Trading Volume,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,The sum of all amounts of trades carried out by customer in assessed period.,,,,,,
+Transaction Count,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,"The number of transactions performed by, or on behalf of, the organization.",,,,,,
+Very Low Risk Tolerance Accounts,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Attrition Prediction,Number of customer accounts with very low tolerance to market risk.,,,,,,
+Account Status Date,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"Identifies a date that represents a calendar date associated with a change in account status; for example, date the account achieved a status of In Default.",,,,,Customer Vocabulary >> Customer 360 >> Customer Account,
+Bereavements,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted bereavements affecting customers in the assessed period of time for all or selected group of customers.,,,,,,
+Census,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Information related to demographic data over a period of time.,,,,,,
+Census Age Range,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Age range of customer based on census data.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Census,
+Census Birth Probability,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Probability of a birth based on census data analysis.,,Sensitive Personal Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Census,
+Census Divorce Probability,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Probability of a divorce based on census data analysis.,,Sensitive Personal Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Census,
+Census Marriage Probability,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Probability of a marriage based on census data analysis.,,Sensitive Personal Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Census,
+Census Migration Probability,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Probability of a customer migrating based on census data analysis.,,Sensitive Personal Information,,,Customer Vocabulary >> Customer 360 >> Customer,
+,,,,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Census,
+College Graduations,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted college graduations in households of customers in the assessed period of time for all or selected group of customers.,,,,,,
+County,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The name of the county.,,,,,Customer Vocabulary >> Customer 360 >> Postal Address,
+Customer Event,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"Customer related events recorded by the organization, that include, life related events, account status updates and account or agreement related changes excluding events like account transactions or records of communication.",,,,Customer Vocabulary >> Customer 360 >> Customer,,
+Customer Event Date,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The date on which the event occurred. Can include time at which the event occurred for certain types of events.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Customer Event,
+Customer Event Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"Classification of the of the customer event, for example: home purchase, divorce, pregnancy, close savings account.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Customer Event,
+Customer Satisfaction With Communication Rating,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The customer satisfaction rating score specified by the customer about the communication contact.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Offer Affinity >> Customer Communication,
+Driver License Number,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The unique number assigned to an individual's driver license.,,Personally Identifiable Information,,,Customer Vocabulary >> Customer 360 >> Customer,Louisiana State Driver's License
+,,,,,,,,,Newfoundland and Labrador Province Driver's License
+,,,,,,,,,Kentucky State Driver's License
+,,,,,,,,,New York State Driver's License
+,,,,,,,,,Georgia State Driver's License
+,,,,,,,,,Missouri State Driver's License
+,,,,,,,,,Saskatchewan Province Driver's License
+,,,,,,,,,Wisconsin State Driver's License
+,,,,,,,,,Wyoming State Driver's License
+,,,,,,,,,Tennessee State Driver's License
+,,,,,,,,,Oklahoma State Driver's License
+,,,,,,,,,California State Driver's License
+,,,,,,,,,Rhode Island State Driver's License
+,,,,,,,,,Pennsylvania State Driver's License
+,,,,,,,,,Connecticut State Driver's License
+,,,,,,,,,West Virginia State Driver's License
+,,,,,,,,,Washington State Driver's License
+,,,,,,,,,Washington DC Driver's License
+,,,,,,,,,Ohio State Driver's License
+,,,,,,,,,Texas State Driver's License
+,,,,,,,,,Kansas State Driver's License
+,,,,,,,,,Maryland State Driver's License
+,,,,,,,,,Idaho State Driver's License
+,,,,,,,,,Iowa State Driver's License
+,,,,,,,,,North Carolina State Driver's License
+,,,,,,,,,Delaware State Driver's License
+,,,,,,,,,North Dakota State Driver's License
+,,,,,,,,,South Carolina State Driver's License
+,,,,,,,,,Utah State Driver's License
+,,,,,,,,,Nova Scotia Province Driver's License
+,,,,,,,,,Nebraska State Driver's License
+,,,,,,,,,Montana State Driver's License
+,,,,,,,,,Massachusetts State Driver's License
+,,,,,,,,,Manitoba Province Driver's License
+,,,,,,,,,New Hampshire State Driver's License
+,,,,,,,,,South Dakota State Driver's License
+,,,,,,,,,Alberta Province Driver's License
+,,,,,,,,,Driver's License
+,,,,,,,,,Prince Edward Island Province Driver's License
+,,,,,,,,,Arizona State Driver's License
+,,,,,,,,,Hawaii State Driver's License
+,,,,,,,,,Florida State Driver's License
+,,,,,,,,,Colorado State Driver's License
+,,,,,,,,,Quebec Province Driver's License
+,,,,,,,,,New Jersey State Driver's License
+,,,,,,,,,Indiana State Driver's License
+,,,,,,,,,Minnesota State Driver's License
+,,,,,,,,,Alaska State Driver's License
+,,,,,,,,,Oregon State Driver's License
+,,,,,,,,,Vermont State Driver's License
+,,,,,,,,,Mississippi State Driver's License
+,,,,,,,,,Michigan State Driver's License
+,,,,,,,,,Nevada State Driver's License
+,,,,,,,,,Arkansas State Driver's License
+,,,,,,,,,Illinois State Driver's License
+,,,,,,,,,Alabama State Driver's License
+,,,,,,,,,British Columbia Province Driver's License
+,,,,,,,,,Virginia State Driver's License
+,,,,,,,,,Maine State Driver's License
+,,,,,,,,,New Brunswick Province Driver's License
+,,,,,,,,,New Mexico State Driver's License
+,,,,,,,,,Ontario Province Driver's License
+Engagements,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted engagements in life of customers in the assessed period of time for all or selected group of customers.,,,,,,
+Event Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"Describes various related event types such as transfer of funds, account transaction, agreement changes, customer interactions, social media posts, medical procedures and customer important dates such as birthday.",,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Customer Event Type,,
+Event Type Category,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"Classification of the event type into various group, for example: life, medical event or procedure, transfer, transaction, account change, agreement change, transaction, interaction, communication, birthday, anniversary.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Event Type,
+Event Type Code,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The abbreviation of the event type name or randomly generated short text used as unique identifier of the event type.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Event Type,
+Event Type Name,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"The name of the event type that can also be used as an identifier, for example: birth of child, marriage, job change, funds transfer out, open savings account, large withdrawal, inbound call, email received, medical procedure, payroll change.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Event Type,
+Home purchases,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted home purchase done by customers in the assessed period of time for all or selected group of customers.,,,,,,
+Job Changes,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted job changes experienced by customers in the assessed period of time for all or selected group of customers.,,,,,,
+Job Losses,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted job losses experienced by customers in the assessed period of time for all or selected group of customers.,,,,,,
+Marriages,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted customer marriages in the assessed period of time for all or selected group of customers.,,,,,,
+New Children,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted new children in the families of customers in the assessed period of time for all or selected group of customers.,,,,,,
+Proves Event Type,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"Another type of event that this event type proves, for example closing of securities account proves the attrition.",,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Event Type,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Event Type,
+Relocations,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The number of actual or predicted customer relocations in the assessed period of time for all or selected group of customers.,,,,,,
+Transaction,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Identifies an activity that represents the recording of events on customer account.,,,,Customer Vocabulary >> Customer 360 >> Customer,,
+,,,,,,,Customer Vocabulary >> Customer 360 >> Customer Account,,
+Transaction Currency,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Identifies a currency recorded on the transaction.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Transaction,Currency
+Transaction Date,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The date on which the transaction actually occurred.,,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Transaction,Date
+Transaction Device Identifier,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,"The identifier of the device used to initiate the transaction. For example, the ATM identifier, the Teller Position Identifier etc.",,,,,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction >> Transaction,Identifier
+Wallet Share,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Indicates available wealth of customer compared to his utilization of products and services of the organization.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Work Address,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,The address of a person's work.,,Personally Identifiable Information,,Customer Vocabulary >> Customer 360 >> Postal Address,Customer Vocabulary >> Customer 360 >> Customer,Address  Line 3
+,,,,,,,,,Address Line 2
+,,,,,,,,,Address Line 1
+Years At Current Address,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Indicates the length of residence at current address.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Years With Current Employer,glossary_term,Customer Vocabulary >> Customer Behavior >> Customer Life Event Prediction,Indicates the number of years of employment with current employer.,,,,,Customer Vocabulary >> Customer 360 >> Customer,
+Youngest Household Adult Birth Year,glossary_term,Customer Vocabulary >> Customer 360,The year on which the youngest child member of household was born.,,,,,Customer Vocabulary >> Customer 360 >> Household,
+Youngest Household Child Birth Year,glossary_term,Customer Vocabulary >> Customer 360,The year on which the youngest adult member of household was born.,,,,,Customer Vocabulary >> Customer 360 >> Household,
